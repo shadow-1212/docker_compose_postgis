@@ -1,4 +1,4 @@
-//non necessaire pour une version plus récente de docker-compose
+#Non necessaire de mettre la version pour une version plus récente de docker-compose
 version : '3'
 services:
   postgre_postgis:
