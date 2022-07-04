@@ -1,3 +1,5 @@
+//non necessaire pour une version plus récente de docker-compose
+version : '3'
 services:
   postgre_postgis:
     image: postgis/postgis:12-3.2-alpine
